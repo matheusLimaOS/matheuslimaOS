@@ -20,8 +20,6 @@ And currently i´m studyng the following languages and techs:
 ![matholaslima's github stats](https://github-readme-stats.vercel.app/api?username=matholaslima&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matholaslima&layout=compact)](https://github.com/matholaslima/github-readme-stats)
-
 
 Contact:
 
