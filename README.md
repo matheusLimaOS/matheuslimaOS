@@ -2,7 +2,7 @@
 
 I have knowledge of the following languages and techs:
 
-[![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.udemy.com/certificate/UC-ea082acf-d2f8-4232-9cf06b922c0d0ba8/)
+[![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://www.udemy.com/certificate/UC-ea082acf-d2f8-4232-9cf0-6b922c0d0ba8/)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
